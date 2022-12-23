@@ -1,0 +1,23 @@
+{
+  "name": "nekoapi",
+  "version": "2.0.0",
+  "description": "api de imagenes de maple bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": {
+    "name": "CacaoNk0027",
+    "email": "scherzodjs@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "discord.js": "^14.7.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1",
+    "morgan": "^1.10.0"
+  }
+}
